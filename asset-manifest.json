@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorem-para-generator/static/css/main.1064f88b.chunk.css",
+    "main.js": "/lorem-para-generator/static/js/main.ec8c5b93.chunk.js",
+    "main.js.map": "/lorem-para-generator/static/js/main.ec8c5b93.chunk.js.map",
+    "runtime-main.js": "/lorem-para-generator/static/js/runtime-main.abfbfe6f.js",
+    "runtime-main.js.map": "/lorem-para-generator/static/js/runtime-main.abfbfe6f.js.map",
+    "static/js/2.f3c9ca39.chunk.js": "/lorem-para-generator/static/js/2.f3c9ca39.chunk.js",
+    "static/js/2.f3c9ca39.chunk.js.map": "/lorem-para-generator/static/js/2.f3c9ca39.chunk.js.map",
+    "index.html": "/lorem-para-generator/index.html",
+    "static/css/main.1064f88b.chunk.css.map": "/lorem-para-generator/static/css/main.1064f88b.chunk.css.map",
+    "static/js/2.f3c9ca39.chunk.js.LICENSE.txt": "/lorem-para-generator/static/js/2.f3c9ca39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abfbfe6f.js",
+    "static/js/2.f3c9ca39.chunk.js",
+    "static/css/main.1064f88b.chunk.css",
+    "static/js/main.ec8c5b93.chunk.js"
+  ]
+}
